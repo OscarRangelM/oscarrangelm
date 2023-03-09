@@ -3,10 +3,16 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarrangelm" alt="oscarrangelm" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [oscarrangelm.com](oscarrangelm.com)
+
+- 📝 I regularly write articles on [blog.oscarrangelm.com](blog.oscarrangelm.com)
+
+- 📫 How to reach me **oscarmauricior7@gmail.com**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/oscar_maughost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oscar_maughost" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oscar mauricio rangel morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar mauricio rangel morales" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oscar-mauricio-rangel-morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-mauricio-rangel-morales" height="30" width="40" /></a>
 <a href="https://instagram.com/oscarmrm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oscarmrm7" height="30" width="40" /></a>
 </p>
 
