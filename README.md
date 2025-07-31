@@ -3,10 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarrangelm" alt="oscarrangelm" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [oscarrangelm.com](https://www.oscarrangelm.com/)
-
-- 📝 I regularly write articles on [blog.oscarrangelm.com](https://blog.oscarrangelm.com/)
-
 - 📫 How to reach me **oscarmauricior7@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
